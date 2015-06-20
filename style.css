@@ -10,12 +10,12 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    position:fixed;
+   
  }
 
  .nav{
  	text-align: center;
- 	position:fixed;
+ 	
  	background-color: gold;
  }
 
@@ -23,7 +23,7 @@ body{
  	padding-right: 20px;
  	display: inline;
 	text-align: center;
-	position:fixed;
+
 }
 
 .nav a:link, .nav a:visited{
