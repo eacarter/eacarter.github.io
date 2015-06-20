@@ -5,6 +5,10 @@ body{
 	background-repeat: no-repeat;
 }
 
+#nav{
+	position:fixed;
+}
+
  .nav ul{
  	list-style-type: none;
     margin: 0;
