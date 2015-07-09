@@ -81,7 +81,7 @@ padding-left: 200px
 }
 
 iframe{
-	position:absolute;
+	<!--position:absolute;-->
 	height:100%;
 }
 
