@@ -82,8 +82,8 @@ padding-left: 200px
 
 iframe{
 	display:block;
-	height:100%;
-	width:100%;
+	height:100%!important;
+	width:100%!important;
 }
 
 .p1 h1, .p1 h3, .p3 h1 , .p3 h3, .p5 h1, .p5 h3{
