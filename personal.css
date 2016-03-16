@@ -30,7 +30,7 @@ ul{
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 
 html{
 	background-image: url(IMG_20160306_094540.jpg);
