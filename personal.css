@@ -1,17 +1,17 @@
 html{
 	background-image: url(IMG_20160306_094540.jpg);
-	background-position: center;
-	background-size: 100%, 100%;
+	background-position: right;
+	background-size: 75%, 75%;
 	background-repeat: no-repeat;
 	background-color: #000000;
 }
 
 .links a{
 	text-decoration: none;
-	color: #ffffff;
-	font-size: 35pt;
-	font-weight: 800;
 	color: #000000;
+	font-size: 30pt;
+	font-weight: 800;
+	color: #FFFFFF;
 
 }
 
@@ -25,10 +25,10 @@ html{
 
 ul{
 	list-style: none;
-	float: right;
+	float: left;
 	margin-top: 15%;
 
-	padding-right: 30%;
+	padding-right: 10%;
 }
 
 
@@ -37,7 +37,7 @@ ul{
 html{
 	background-image: url(IMG_20160306_094540.jpg);
 	background-position: center;
-	background-size: 100%, 100%;
+	background-size: 75%, 75%;
 	background-repeat: no-repeat;
 	margin-top: 10%;
 	margin-bottom: 5%;
